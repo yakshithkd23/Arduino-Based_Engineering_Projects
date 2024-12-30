@@ -32,7 +32,7 @@ This project uses an ultrasonic sensor to measure the distance and display it on
    Replace `COM3` with the correct port for your microcontroller.
 
 5. **Open `src/main.cpp`:**
-   - Open the `main.cpp` file in the `src` folder and paste the given Arduino code.
+   - Open the `main.cpp` file in the `src` folder and paste the given Arduino code 'main.cpp'.
 
 6. **Connect the Microcontroller:**
    - Connect your Arduino Uno to the computer via a USB cable.
