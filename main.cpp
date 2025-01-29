@@ -1,9 +1,10 @@
 #include <Arduino.h>
 
 //  pin connections
-#define echoPin 2 // connection between ecopin to 2
+#define echoPin 2 // connection between ecopin to 2 
 #define trigPin 3 // connection between trig to -3
-
+// connection between vcc to 5v
+//connection between ground to ground
 // Declare variables
 long duration; // Variable to store time taken by the pulse to reach the receiver
 int distance;  // Variable to store calculated distance
