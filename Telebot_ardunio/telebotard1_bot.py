@@ -4,7 +4,7 @@
      # give a new name
      #copy the api
 #create a python code and run it below same
-#then again back into a botfather then click a link for your bot link   - https://t.me/telebotard1_bot
+#then again back into a botfather then click a link for your bot link  
 
 import telepot
 import time
